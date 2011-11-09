@@ -1,0 +1,15 @@
+INPUT(
+./release\main.o
+./release\mapwidget.o
+./release\mainwindow.o
+./release\doodle.o
+./release\mainmenu.o
+./release\startpage.o
+./release\stackedwidgets.o
+./release\moc_mapwidget.o
+./release\moc_mainwindow.o
+./release\moc_doodle.o
+./release\moc_mainmenu.o
+./release\moc_startpage.o
+./release\moc_stackedwidgets.o
+);

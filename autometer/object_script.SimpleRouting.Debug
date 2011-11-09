@@ -1,0 +1,15 @@
+INPUT(
+./debug\main.o
+./debug\mapwidget.o
+./debug\mainwindow.o
+./debug\doodle.o
+./debug\mainmenu.o
+./debug\startpage.o
+./debug\stackedwidgets.o
+./debug\moc_mapwidget.o
+./debug\moc_mainwindow.o
+./debug\moc_doodle.o
+./debug\moc_mainmenu.o
+./debug\moc_startpage.o
+./debug\moc_stackedwidgets.o
+);
